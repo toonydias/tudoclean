@@ -1,0 +1,25 @@
+body {
+   background: #dddddd;
+}
+.logo {
+    width: 130px;
+}
+header {
+    background: #ffffff;
+}
+.carousel-caption {
+    background: rgba(0,0,0,0.5);
+}
+
+@media (min-width: 576px) { ... }
+
+// Dispositivos médios (tablets com 768px ou mais)
+@media (min-width: 768px) { ... }
+
+// Dispositivos large (desktops com 992px ou mais)
+@media (min-width: 992px) { ... }
+
+// Dispositivos extra large (desktops grandes com 1200px ou mais)
+@media (min-width: 1200px) {     
+
+}
